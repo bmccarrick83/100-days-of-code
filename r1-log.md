@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Brandon McCarrick]
+# #100DaysOfCode Log - Round 1 - Brandon McCarrick
 
-The log of my #100DaysOfCode challenge. Started on [May 5, Thursday, 2018].
+The log of my #100DaysOfCode challenge. Started on May 5, Thursday, 2018.
 
 ## Log
 
